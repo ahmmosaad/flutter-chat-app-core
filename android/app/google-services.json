@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1009607982077",
+    "firebase_url": "https://missat-529e5.firebaseio.com",
+    "project_id": "missat-529e5",
+    "storage_bucket": "missat-529e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009607982077:android:1f1107120e09295b78b794",
+        "android_client_info": {
+          "package_name": "com.k610.massat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009607982077-oac5t4n17ujmuvpe88vq215ll6h1rjsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHss8GyRcRvgkY8aiZoeq-ABX_-Tnx0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009607982077-oac5t4n17ujmuvpe88vq215ll6h1rjsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009607982077:android:e53e7fdbcc67667378b794",
+        "android_client_info": {
+          "package_name": "com.k610.missat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009607982077-oac5t4n17ujmuvpe88vq215ll6h1rjsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHss8GyRcRvgkY8aiZoeq-ABX_-Tnx0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009607982077-oac5t4n17ujmuvpe88vq215ll6h1rjsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
